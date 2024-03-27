@@ -1,0 +1,4 @@
+C:\Users\Asus\source\repos\Dolgozat2\Dolgozat2\obj\Debug\net8.0\Dolgozat2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Dolgozat2\Dolgozat2\obj\Debug\net8.0\Dolgozat2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Dolgozat2\Dolgozat2\obj\Debug\net8.0\Dolgozat2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Dolgozat2\Dolgozat2\obj\Debug\net8.0\Dolgozat2.csproj.CoreCompileInputs.cache
